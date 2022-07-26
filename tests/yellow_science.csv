@@ -1,0 +1,14 @@
+"https://factoriolab.github.io/list?z=eJwdyLEKwkAQhOG32WJBEIJJnUlhYqGBeOjZHORsQlKEEy1SzLNnz-L.YGa9aXmUsZXproqA9q83JaHWGJw15O-S6WxtFg6ZSpsQNcpHtSQK4ko44kl44kXMxEIkNmf2fNDzzZlf-Z122swk8A__"
+Item,Items,Belts,Belt,Recipe,Inputs,Factories,Factory,FactoryModules,Power,Outputs
+c-matrix,=60,=1/6,belt-1,c-matrix,"diamond:1,titan-crystal:1",=8,lab,"module",=3936,"c-matrix:1"
+diamond,=60,=1/6,belt-1,diamond,"graphite:1/3",=1,plane-smelter,"module",=1488,"diamond:1"
+titan-crystal,=60,=1/6,belt-1,titan-crystal,"crystal-rubber:1,titanium-plate:1",=8/3,assembler-3,"module",=2952,"titan-crystal:1"
+crystal-rubber,=60,=1/6,belt-1,crystal-rubber,"plastic:1,refined-oil:1/8,water:1",=6,chemical-plant,"module",=4464,"crystal-rubber:1"
+plastic,=120,=1/3,belt-1,plastic,"refined-oil:0.5,graphite:2/3",=6,chemical-plant,"module",=4464,"plastic:1"
+water,=60,=1/6,belt-1,water-vein,,=1.2,water-pump,,=384,"water:1"
+titanium-plate,=180,=0.5,belt-1,titanium-plate,"titanium-ore:1",=3,plane-smelter,"module",=4464,"titanium-plate:1"
+titanium-ore,=360,=1,belt-1,titanium-vein,,=12,mining-drill,,,"titanium-ore:1"
+graphite,=180,=0.5,belt-1,x-ray,"refined-oil:3/8,hydrogen:6/13",=12,oil-refinery,"module",=11808,"hydrogen:9/13,graphite:1"
+hydrogen,=360,=13/6,belt-1,,,,,,,
+refined-oil,=480,=2/3,belt-2,plasma-refining,"oil:1",=16,oil-refinery,"module",=15744,"hydrogen:4/13,refined-oil:1"
+oil,=480,=2/3,belt-2,oil-vein,,=8,oil-extractor,,=6912,"oil:1"

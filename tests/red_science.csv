@@ -1,0 +1,8 @@
+"https://factoriolab.github.io/list?z=eJwrSNYyNDJQS.JQywzR0nKKd.IAk5FAUq3IyVErOT4UiINBYl4gwhPIqwJiJ10QYa7lHJ-slaxWrFZmCgDt4hR9"
+Item,Items,Belts,Belt,Recipe,Inputs,Factories,Factory,FactoryModules,Power,Outputs
+e-matrix,=120,=1/3,belt-1,e-matrix,"graphite:1,hydrogen:1",=12,lab,"module",=5904,"e-matrix:1"
+graphite,=240,=2/3,belt-1,graphite,"coal-ore:1",=4,plane-smelter,"module",=5952,"graphite:1"
+coal-ore,=480,=2/3,belt-2,coal-vein,,=16,mining-drill,,,"coal-ore:1"
+hydrogen,=240,=2/3,belt-1,plasma-refining,"oil:1",=16,oil-refinery,"module",=15744,"hydrogen:1,refined-oil:1"
+oil,=480,=2/3,belt-2,oil-vein,,=8,oil-extractor,,=6912,"oil:1"
+refined-oil,=0,=2/3,belt-2,,,,,,,
